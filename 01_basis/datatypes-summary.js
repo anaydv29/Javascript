@@ -15,3 +15,6 @@ const myFunction=function(){
     console.log("hello world");
 }
 
+//Stack(Primitive), Heap(Non - Primitive)
+
+
